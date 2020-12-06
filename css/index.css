@@ -1,0 +1,18 @@
+* {
+    background-color: #F5F5F5;
+    font-family: 'Verdana', 'Arial';
+    
+}
+nav {
+    background-color: darkblue;
+}
+nav a {
+    text-decoration: none;
+    font-weight: bold;
+
+}
+
+p {
+    font-family: 'Consolas';
+    color: rgba(39, 39, 39, 0.514);
+}
